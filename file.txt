@@ -2,3 +2,7 @@ step 1:
 	case 1:
 	create repo on GitHub
 	created repo on local system and now pushing it to GitHub remote master branch
+
+Next
+create branch locally and push it to master
+the branch b1 should be created on master
