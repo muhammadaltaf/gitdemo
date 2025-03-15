@@ -6,3 +6,5 @@ step 1:
 Next
 create branch locally and push it to master
 the branch b1 should be created on master
+
+Editing this file on remote master. First do fetch and then merge into local master branch
