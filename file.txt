@@ -1,0 +1,4 @@
+step 1:
+	case 1:
+	create repo on GitHub
+	created repo on local system and now pushing it to GitHub remote master branch
